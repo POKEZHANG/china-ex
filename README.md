@@ -6,6 +6,8 @@ https://lab.magiconch.com/china-ex/
 
 有感兴趣画简化矢量地图的小伙伴欢迎来一起整活儿~ 
 
+我想参加
+
 ## [全球版在这里！🤗](https://github.com/itorr/world-ex)
 
 ## 功能
